@@ -39,5 +39,5 @@ This portfolio demonstrates my creative approach to front-end and back-end devel
 To run this project locally:
 
 ```bash
-git clone https://github.com/your-username/bootstrap-portfolio.git
+git clone (https://github.com/MRDAVIL1/Bootstrap-Responsive-Portfolio.git)
 cd bootstrap-portfolio
